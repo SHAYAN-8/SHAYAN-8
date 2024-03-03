@@ -1,7 +1,7 @@
 ![MasterHead](banner.gif)
 <br><br>
 
-<h1 align="center">Hi 👋, I'm Muaaz</h1>
+<h1 align="center">Hi 👋, I'm Shayan</h1>
 <br>
 - 👀 I’m interested in exploring new tech stuff
 - 🌱 I’m currently learning React
