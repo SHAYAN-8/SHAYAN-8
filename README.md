@@ -1,3 +1,5 @@
+<img src="" alt="Header" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 - 👋 Hi, I’m SHAYAN
 - 👀 I’m interested in exploring new tech stuff
