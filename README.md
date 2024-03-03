@@ -1,7 +1,8 @@
-<img src="output-onlinegiftools.gif" alt="Header" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+![MasterHead](banner.gif)
+<br><br>
 
-
-- 👋 Hi, I’m SHAYAN
+<h1 align="center">Hi 👋, I'm Muaaz</h1>
+<br>
 - 👀 I’m interested in exploring new tech stuff
 - 🌱 I’m currently learning React
 - 💞️ Open to fun collaborations.
