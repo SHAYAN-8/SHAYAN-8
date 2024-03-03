@@ -1,4 +1,4 @@
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNdIXEAUhDbHfUro2b4oNPs3J7YCbOhEBAWTx3gD21LSVxI0kmHcqEWChSpaiYGXse7zc&usqp=CAU" alt="MasterHead" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNdIXEAUhDbHfUro2b4oNPs3J7YCbOhEBAWTx3gD21LSVxI0kmHcqEWChSpaiYGXse7zc&usqp=CAU" alt="MasterHead" style="max-width: 100vw; display: inline-block;" data-target="animated-image.originalImage">
 - 👋 Hi, I’m SHAYAN
 - 👀 I’m interested in exploring new tech stuff
 - 🌱 I’m currently learning React
