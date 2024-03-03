@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning React
 - 💞️ Open to fun collaborations.
 - 😄 Pronouns: He/Him.
-- 📫 Reach me at linkedin.com/in/ms-programmers
+- 📫 Reach me at <a href="https://linkedin.com/in/ms-programmers">LinkedIn</a>
 - ⚡ Fun fact: Talk is cheap show me Code!
 
 A passionate front-end developer with expertise in crafting seamless and visually appealing web experiences.
