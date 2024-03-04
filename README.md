@@ -1,4 +1,4 @@
-![MasterHead](banner.gif)
+![MasterHead](header.gif)
 <br>
 <h1 align="center">Hi 👋, I'm Shayan</h1>
 <br>
