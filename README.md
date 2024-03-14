@@ -17,7 +17,7 @@
 > **My skill set encompasses a range of technologies, including HTML, CSS, Tailwind CSS, JavaScript, React etc.**
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/ms-programmers/" style="display:inline-flex"> <button><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="10" height="10"/> Followers</button><button>4000</button></a>
+<a href="https://www.linkedin.com/in/ms-programmers/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="40" height="40"/> </a>
 
 
 
