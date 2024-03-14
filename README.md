@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning React
 - 💞️ Open to fun collaborations.
 - 😄 Pronouns: He/Him.
-- 📫 Reach me at shayan28m6@gmail.com</a>
+- 📫 Reach me at [shayan28m6@gmail.com](mailto:shayan28m6@gmail.com)</a>
 - ⚡ Fun fact: Talk is cheap show me Code!
 
 <br>
@@ -18,10 +18,8 @@
 > **My skill set encompasses a range of technologies, including HTML, CSS, Tailwind CSS, JavaScript, React etc.**
 
 ## Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/ms-programmers/" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-png.png" height="30" width="120" /></a>
+![LinkedIn](https://thumbor.forbes.com/thumbor/fit-in/600x300/https://www.forbes.com/advisor/wp-content/upload/2022/02/Linkedin-Logo.png)
 
-</p>
 
 
 
