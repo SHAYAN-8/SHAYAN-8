@@ -1,8 +1,7 @@
 ![MasterHead](header.gif)
 <br>
 <h1 align="center">Hi 👋, I'm Shayan</h1>
-
----
+<br>
 
 - 👀 I’m interested in exploring new tech stuff
 - 🌱 I’m currently learning React
@@ -18,7 +17,7 @@
 > **My skill set encompasses a range of technologies, including HTML, CSS, Tailwind CSS, JavaScript, React etc.**
 
 ## Connect with me:
-![LinkedIn](https://thumbor.forbes.com/thumbor/fit-in/600x300/https://www.forbes.com/advisor/wp-content/upload/2022/02/Linkedin-Logo.png)
+![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png)
 
 
 
