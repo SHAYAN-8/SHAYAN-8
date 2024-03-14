@@ -1,9 +1,9 @@
 ![MasterHead](header.gif)
 <br>
 <h1 align="center">Hi 👋, I'm Shayan</h1>
-<br>
 
 ---
+
 - 👀 I’m interested in exploring new tech stuff
 - 🌱 I’m currently learning React
 - 💞️ Open to fun collaborations.
