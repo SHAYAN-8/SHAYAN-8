@@ -17,7 +17,7 @@
 > **My skill set encompasses a range of technologies, including HTML, CSS, Tailwind CSS, JavaScript, React etc.**
 
 ## Connect with me:
-![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="50" height="50" />
 
 
 
