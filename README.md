@@ -12,8 +12,9 @@
 - ⚡ Fun fact: Talk is cheap show me Code!
 
 <br>
+
 ### A passionate front-end developer with expertise in crafting seamless and visually appealing web experiences.
-My skill set encompasses a range of technologies, including HTML, CSS, Tailwind CSS, JavaScript, React etc.
+### My skill set encompasses a range of technologies, including HTML, CSS, Tailwind CSS, JavaScript, React etc.
 
 ## Connect with me:
 <p align="left">
