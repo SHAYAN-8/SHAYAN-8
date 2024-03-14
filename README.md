@@ -13,8 +13,8 @@
 
 <br>
 
-### A passionate front-end developer with expertise in crafting seamless and visually appealing web experiences.
-### My skill set encompasses a range of technologies, including HTML, CSS, Tailwind CSS, JavaScript, React etc.
+> **A passionate front-end developer with expertise in crafting seamless and visually appealing web experiences.**
+> **My skill set encompasses a range of technologies, including HTML, CSS, Tailwind CSS, JavaScript, React etc.**
 
 ## Connect with me:
 <p align="left">
